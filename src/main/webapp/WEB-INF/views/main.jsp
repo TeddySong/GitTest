@@ -12,7 +12,7 @@
 	<p>commit 하기 전 상태의 파일을 삭제하는 기능</p>
 	
 	<h3>commit한 내용을 취소하고 싶을 경우</h3>
-	<p>1.branch commit</p>
+	<p>1.branch commit - 특정 지점으로 branch 를 초기화(이전 branch를 없애는 방법)</p>
 	<p>2.reverse commit</p>
 	
 </body>
