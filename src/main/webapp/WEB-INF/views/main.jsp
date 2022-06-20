@@ -13,7 +13,7 @@
 	
 	<h3>commit한 내용을 취소하고 싶을 경우</h3>
 	<p>1.branch commit - 특정 지점으로 branch 를 초기화(이전 branch를 없애는 방법)</p>
-	<p>2.reverse commit</p>
+	<p>2.reverse commit - 특정 버전에서 실행한 내용을 취소하고 최종 버전을 유지하여 새로운 커밋 생성</p>
 	
 </body>
 <script></script>
