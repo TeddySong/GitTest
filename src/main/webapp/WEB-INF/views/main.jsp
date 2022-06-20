@@ -11,6 +11,10 @@
 	<h3>폐기 기능</h3>
 	<p>commit 하기 전 상태의 파일을 삭제하는 기능</p>
 	
+	<h3>commit한 내용을 취소하고 싶을 경우</h3>
+	<p>1.branch commit</p>
+	<p>2.reverse commit</p>
+	
 </body>
 <script></script>
 </html>
